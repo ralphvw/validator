@@ -25,7 +25,7 @@ func Validate(obj interface{}, fields []string) (bool, []string)
 
 ```go
 import (
-	"github.com/your-username/validator"
+	"github.com/ralphvw/validator"
 	"encoding/json"
 	"net/http"
 )
